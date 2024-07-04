@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahya\\Gonki3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|c:\\users\\sahya\\gonki3\\assets\\scripts\\car\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\carhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|C:\\Users\\sahya\\Gonki3\\assets\\scripts\\explode\\explodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explode\\explodehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|C:\\Users\\sahya\\Gonki3\\assets\\scripts\\utils\\randomizeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\randomizeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|C:\\Users\\sahya\\Gonki3\\assets\\scripts\\endless\\endlesssectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endless\\endlesssectionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|C:\\Users\\sahya\\Gonki3\\assets\\scripts\\endless\\endlesslevelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73EB891E-D8DD-1BB6-D5FA-5C3B93503140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endless\\endlesslevelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Car\\InputHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Car\\InputHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExplodeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Explode\\ExplodeHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Explode\\ExplodeHandler.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Explode\\ExplodeHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Explode\\ExplodeHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:59:42.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandomizeObject.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Utils\\RandomizeObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\RandomizeObject.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Utils\\RandomizeObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\RandomizeObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T10:48:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndlessLevelHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Endless\\EndlessLevelHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Endless\\EndlessLevelHandler.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Endless\\EndlessLevelHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Endless\\EndlessLevelHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC4AAABkAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-28T12:29:18.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndlessSectionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Endless\\EndlessSectionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Endless\\EndlessSectionHandler.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Endless\\EndlessSectionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Endless\\EndlessSectionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-28T12:26:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Car\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Car\\InputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\InputHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:35:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Car\\CarHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\CarHandler.cs",
+              "ToolTip": "C:\\Users\\sahya\\Gonki3\\Assets\\Scripts\\Car\\CarHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\CarHandler.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAuwKMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:26:59.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
